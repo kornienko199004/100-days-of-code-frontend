@@ -7,8 +7,11 @@
         <mxCell id="D08GbgwIVa2AVhSEO_vI-1" value="игровое поле&lt;div&gt;высота - 13&lt;/div&gt;&lt;div&gt;ширина - 21&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D08GbgwIVa2AVhSEO_vI-2" value="игровое поле&lt;div&gt;высота - 13&lt;/div&gt;&lt;div&gt;ширина - 21&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D08GbgwIVa2AVhSEO_vI-2" value="ходы змейки&lt;div&gt;U, R, L, D&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D08GbgwIVa2AVhSEO_vI-3" value="стартовое положение змейки&lt;div&gt;голова - (0, 2)&lt;/div&gt;&lt;div&gt;длина - 3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
